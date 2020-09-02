@@ -14,6 +14,8 @@ https://blog.csdn.net/caiyunlei91
 
 **removenextlineneedlesswhitespaces**: remove next line needless leading whitespaces when delete line end
 
+**HighlightsConsoleAbsolutePath**: highlights absolute path as hyperlinks in console output.
+
 
 
 ### 其他
